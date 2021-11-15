@@ -13,6 +13,6 @@ function findAvg(arr){
     }
 
     var average = sum/arr.length;
-    return "The minimum is "+ min + ", the maximum is " + ", and the average is " + average + ".";
+    return "The minimum is "+ min + ", the maximum is " + max +", and the average is " + average + ".";
 }
 
